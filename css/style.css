@@ -144,7 +144,7 @@ ul li:last-child {
 
 .textures li {
   height: 30vw;
-  width: 40%;
+  width: 100%;
   margin-right: 5vw;
 }
 
@@ -160,11 +160,6 @@ ul li:last-child {
 
 .texture-swatch-1 {
   background: url(../img/Screenshot\ 2021-02-16\ at\ 14.21.42.png) top left
-    repeat;
-}
-
-.texture-swatch-3 {
-  background: url(../img/Screenshot\ 2021-02-18\ at\ 11.47.33.png) top left
     repeat;
 }
 
